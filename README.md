@@ -1,5 +1,3 @@
-Here’s a portfolio-focused README you can paste into the repository.
-
 # CORE-CMR
 
 > A privacy-preserving, locally deployable LLM pipeline for generating cardiac MRI report summaries with hallucination detection and uncertainty awareness.
